@@ -16,6 +16,7 @@ namespace SocketCliente
             /* 6) Conectamos */
             cliente.Connect(direccion);               
 
+
             Console.WriteLine(" You arrive to Mordor's lair, and said.. \n");
 
             /* 7) Capturamos el mensaje y lo enviamos al otro lado */
